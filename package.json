@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/paulo-e/dev#readme",
   "dependencies": {
-    "commander": "^8.3.0",
+    "commander": "^9.0.0",
     "ps-node": "^0.1.6"
   }
 }
